@@ -1,5 +1,6 @@
 📊 Mall Customer Segmentation using KMeans Clustering
-(intro.png)
+![Feature Importance](intro.png)
+
 
 
 📌 Problem Statement
