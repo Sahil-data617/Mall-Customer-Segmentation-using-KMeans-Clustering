@@ -1,4 +1,7 @@
 📊 Mall Customer Segmentation using KMeans Clustering
+(intro.png)
+
+
 📌 Problem Statement
 You own a supermarket mall and want to understand your customers better — especially identifying those who can be easily converted into high-value or loyal customers. This insight will empower your marketing team to design targeted campaigns and strategic offers for different customer groups.
 
